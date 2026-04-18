@@ -8,12 +8,24 @@ A full-stack web application built using Java Servlets, JSP, and MySQL that allo
 
 
 ➕ Add new tasks
+
+
 📝 Update existing tasks
+
+
 ❌ Delete tasks
+
+
 📋 View all tasks
+
+
 🧩 MVC Architecture implementation
+
+
 🔗 Database integration using DAO pattern
+
 🛠️ Tech Stack
+
 
 Frontend: HTML, CSS, JSP
 Backend: Java Servlets
