@@ -5,6 +5,8 @@ A full-stack web application built using Java Servlets, JSP, and MySQL that allo
 🚀 Features
 
 🔐 User Registration and Login (Authentication) 
+
+
 ➕ Add new tasks
 📝 Update existing tasks
 ❌ Delete tasks
